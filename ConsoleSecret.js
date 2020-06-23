@@ -6,7 +6,6 @@ function secretEasterEgghkjlsgfdsghkdfjlpwhiuegr()
             console.log("Haha pranked!");
         }
 }
-//throw("Easter egg hunter exception");
 console.log("Hello there, you seem to have stumbled upon the console area of my site!");
 console.log("There isn't much to say here to be honest.");
 console.log("However there is a secred b@se 85 function, decrypt this and run it in the console.");
